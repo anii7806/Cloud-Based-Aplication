@@ -9,14 +9,6 @@ I found a database schema that matches this project, It is shown below:
 
 ![Database Model](docs/Database%20Model.jpg)
 
-## Development
-I developed this Web Application but not from scratch. I found a very useful database schema and it built over it.
-
-Those who wants to develop or progress further, just clone this repository using:
-
-```bash
-git clone https://github.com/PradyumnaKrishna/enigma-protocol.git
-```
 
 Install Python dependencies
 
